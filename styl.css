@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+}
+h1{
+	background-color: #000;
+	color: lime;
+	
+}
+h2{
+	font-size: 2rem;
+	
+	
+}
+ul{
+  list-style: none;
+}
+
+li{
+	padding: 5px;
+	font-size: 2em;
+}
